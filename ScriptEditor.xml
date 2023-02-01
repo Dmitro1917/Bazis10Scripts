@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <Form>
+    <Left>291</Left>
+    <Top>381</Top>
+    <Width>955</Width>
+    <Height>578</Height>
+  </Form>
+  <Font>
+    <Name>Courier New</Name>
+    <Size>10</Size>
+  </Font>
+  <Editor>
+    <CompletionDelay>200</CompletionDelay>
+    <CompletionAllProposals>false</CompletionAllProposals>
+    <TabWidth>4</TabWidth>
+  </Editor>
+  <Formatter>
+    <Indent>4</Indent>
+    <BraceStyle>collapse</BraceStyle>
+  </Formatter>
+  <FormEditor>
+    <Capture>10</Capture>
+  </FormEditor>
+</Settings>
