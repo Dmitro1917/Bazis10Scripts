@@ -1,4 +1,4 @@
-selObj = Model.Selections
+﻿selObj = Model.Selections
 countSel = Model.SelectionCount
 var fur = 0
 if (selObj != null) {
@@ -14,13 +14,5 @@ if (selObj != null) {
             ++fur
             }
         }
-//        if (n.List) {
-//            var m = n.AsList
-//            var mCou = m.Count
-//            for (i = 0; i < mCou; ++i){
-//            var nom = i + 1
-//            n[i].Name = n.Name + "." + nom
-//            }
-//        }
     }
     }
